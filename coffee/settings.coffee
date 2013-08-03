@@ -84,7 +84,7 @@ pagecmd *.pdf nmap <C-f> <NOP>\n
 #pagecmd http*://twitter.com/* nmap r <NOP>"
 
         "keyMappingNormal"  :
-            "j"       : "ScrollDown"
+            "q"       : "ScrollDown"
             "<C-e>"   : "ScrollDown"
             "k"       : "ScrollUp"
             "<C-y>"   : "ScrollUp"
